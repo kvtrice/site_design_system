@@ -270,6 +270,7 @@ p span {
 
 .nav-link a {
   font-family: "BodyGrotesqueFit";
+  color: black;
   margin: 0 10px;
   text-decoration: none;
 }
@@ -291,6 +292,7 @@ p span {
   font-family: "Poppins";
   margin: 0 10px;
   text-decoration: underline;
+  color: black;
 }
 
 .inline-link a:hover {

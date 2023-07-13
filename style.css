@@ -251,7 +251,7 @@ p span {
   margin: 0 10px 15px 0;
   border: 1px solid black;
   border-radius: 5px;
-  background-color: #F7FF9F;
+  background-color: #E9E1FD;
 }
 
 .secondary-button:hover {
@@ -268,7 +268,7 @@ p span {
   box-shadow: none;
 }
 
-.nav-link a {
+.nav-link :any-link {
   font-family: "BodyGrotesqueFit";
   color: black;
   margin: 0 10px;
@@ -288,7 +288,7 @@ p span {
   color: #FDB066;
 }
 
-.inline-link a {
+.inline-link a:any-link {
   font-family: "Poppins";
   margin: 0 10px;
   text-decoration: underline;
